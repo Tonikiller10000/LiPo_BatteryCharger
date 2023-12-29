@@ -8,10 +8,9 @@
 
 
 <table>
-  <tr><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/pro.png" ></tr>
-  <tr><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/v1.png" ></tr>
-  <tr><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/v2.png" ></tr>
-  <tr><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/v45.png" ></tr>
-  <tr><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/sch.png" ></tr>
+  <tr>
+  <td><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/pro.png" ></td>
+  <td><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/v1.png" ></td>
+  <td><img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/v2.png" ></td>
  </table>
 
