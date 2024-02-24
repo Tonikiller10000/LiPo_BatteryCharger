@@ -11,7 +11,11 @@
   </tr>
  </table>
 
+<img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/vtop.png" >
 <img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/pro.png" >
+<img src="https://github.com/Tonikiller10000/LiPo_BatteryCharger/blob/main/LiPo_BatteryCharger_Pictures/sch.png" >
+
+
 
 
 Datasheets: 
